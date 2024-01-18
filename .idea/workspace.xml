@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2bd05fb-4ce2-4757-bd45-22fec468b3e4" name="Changes" comment="">
+    <list default="true" id="a2bd05fb-4ce2-4757-bd45-22fec468b3e4" name="Changes" comment="Prueba Commit&#10;&#10;Commit para enseñarle a Mario">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1Punto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1/point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +37,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/luismi/GitHub/POO/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/luismi/GitHub/POO/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -56,6 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1705582635905</updated>
     </task>
+    <task id="LOCAL-00001" summary="Prueba Commit&#10;&#10;Commit para enseñarle a Mario">
+      <option name="closed" value="true" />
+      <created>1705582910100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705582910100</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prueba Commit&#10;&#10;Commit para enseñarle a Mario" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prueba Commit&#10;&#10;Commit para enseñarle a Mario" />
   </component>
 </project>
