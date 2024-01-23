@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2bd05fb-4ce2-4757-bd45-22fec468b3e4" name="Changes" comment="Ex2&#10;&#10;Ejercicio 2 Completado">
+    <list default="true" id="a2bd05fb-4ce2-4757-bd45-22fec468b3e4" name="Changes" comment="Completed Stage 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1/point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex2/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex2/persona.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +33,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/luismi/GitHub/POO/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ProgramaPersona.executor": "Run",
+    "Application.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/luismi/GitHub/POO/src/POO2",
+    "onboarding.tips.debug.path": "/Users/luismi/GitHub/POO/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/POO2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -91,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705921620506</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed Stage 1">
+      <option name="closed" value="true" />
+      <created>1706006532721</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706006532721</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +120,7 @@
     <MESSAGE value="Prueba Commit&#10;&#10;Commit para enseñarle a Mario" />
     <MESSAGE value="Ex1&#10;&#10;Ejercicio 1 Completado" />
     <MESSAGE value="Ex2&#10;&#10;Ejercicio 2 Completado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex2&#10;&#10;Ejercicio 2 Completado" />
+    <MESSAGE value="Completed Stage 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Stage 1" />
   </component>
 </project>
